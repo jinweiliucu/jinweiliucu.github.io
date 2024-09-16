@@ -25,7 +25,7 @@ author:
   name             : "Jinwei Liu"
   pronouns         : # example: "she/her"
   bio              : "jinwei.liu (at) famu.edu
-  #bio              : "Short biography for the left-hand sidebar"
+  #bio              : # "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Florida A&M University"
   uri              : # URL
