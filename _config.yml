@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-2298-5974"
   semantic         : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   ResearchGate     : "https://www.researchgate.net/profile/Jinwei_Liu2"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,8 +57,8 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  #linkedin         : # Username
   LinkedIn         : "https://www.linkedin.com/in/jinwei-liu-7a392b36/"
+  #linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
