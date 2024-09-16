@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-2298-5974"
   semantic         : # URL
-  ResearchGate     : "https://www.researchgate.net/profile/Jinwei_Liu2"
+  researchgate     : "https://www.researchgate.net/profile/Jinwei_Liu2"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  LinkedIn         : "jinwei-liu-7a392b36"
+  linkedin         : "jinwei-liu-7a392b36"
   #linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
