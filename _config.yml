@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : "jinwei.liu (at) famu.edu
   #bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Florida, USA"
   employer         : "Florida A&M University"
   uri              : # URL
   email            : "jinwei.liu@famu.edu" 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jinweiliucu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
