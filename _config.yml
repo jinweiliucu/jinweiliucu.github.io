@@ -25,7 +25,6 @@ author:
   name             : "Jinwei Liu"
   pronouns         : # example: "she/her"
   bio              : "jinwei.liu (at) famu.edu
-  #bio              : # "Short biography for the left-hand sidebar"
   location         : "Florida, USA"
   employer         : "Florida A&M University"
   uri              : # URL
@@ -38,7 +37,6 @@ author:
   orcid            : "http://orcid.org/0000-0003-2298-5974"
   semantic         : # URL
   researchgate     : "https://www.researchgate.net/profile/Jinwei_Liu2"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -59,7 +57,6 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "jinwei-liu-7a392b36"
-  #linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
