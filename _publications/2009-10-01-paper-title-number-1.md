@@ -1,10 +1,10 @@
 ---
 # title: "SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine"
-# collection: publications
-# category: manuscripts
+collection: publications
+category: manuscripts
 # permalink: /publication/2013-10-23-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2013-10-23
+date: 2013-10-23
 # venue: 'IEEE Transactions on Computers (TC)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6645370'
