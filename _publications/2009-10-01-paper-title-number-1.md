@@ -1,5 +1,5 @@
 ---
-# title: "SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine"
+title: "SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine"
 collection: publications
 category: manuscripts
 # permalink: /publication/2013-10-23-paper-title-number-1
@@ -9,5 +9,5 @@ category: manuscripts
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6645370'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-citation: 'H. Shen, **J. Liu**, K. Chen, J. Liu, and S. Moyer. SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine, _**IEEE Transactions on Computers (TC)**_, 64(2):518-532, 2015.'
+citation: 'H. Shen, **J. Liu**, K. Chen, J. Liu, and S. Moyer. SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine, ***IEEE Transactions on Computers (TC)***, 64(2):518-532, 2015.'
 ---
