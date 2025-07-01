@@ -18,9 +18,13 @@ I am looking for self-motivated students with research interests in any area of 
 News
 ======
 [08/2024] Our project was funded by NSF HBCU-UP program. Many thanks to NSF!
+
 [08/2024] Our project was funded by NSF RCN-UBE program. Many thanks to NSF!
+
 [09/2022] Our project was funded by Cyber Florida. Many thanks to Cyber Florida!
+
 [11/2021] Our project was funded by Florid A&M University Faculty Research Awards Program (FRAP). Many thanks to Florid A&M University!
+
 [09/2020] Our project was funded by GOOGLE LLC. Many thanks to GOOGLE LLC!
 
 
