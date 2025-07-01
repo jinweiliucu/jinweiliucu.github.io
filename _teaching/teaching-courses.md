@@ -1,8 +1,6 @@
 ---
 permalink: /teaching/teaching-courses
 ---
-
-
 COP 3530 Program, Data and File Structures
 ======
 
