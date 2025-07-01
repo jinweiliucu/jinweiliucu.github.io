@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/teaching-courses
+permalink: /teaching/Courses Taught
 ---
 COP 3530 Program, Data and File Structures
 ======
