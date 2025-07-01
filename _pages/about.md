@@ -21,7 +21,7 @@ News
 
 [08/2024] Our project was funded by NSF RCN-UBE program. Many thanks to NSF!
 
-[03/2024] Our project was supported by FAMU Cyber Policy Institute funded through a $5 million grant from the Hewlett Foundation. Many thanks to FAMU Cyber Policy Institute and the Hewlett Foundation!
+[02/2024] Our project was supported by FAMU Cyber Policy Institute funded through a $5 million grant from the Hewlett Foundation. Many thanks to FAMU Cyber Policy Institute and the Hewlett Foundation!
 
 [09/2022] Our project was funded by Cyber Florida. Many thanks to Cyber Florida!
 
