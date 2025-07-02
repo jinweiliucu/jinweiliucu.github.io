@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jinwei Liu is an Assistant Professor with the Department of Computer and Information Sciences at Florida A&M University (FAMU). He received the Ph.D. degree in Computer Engineering from the [The Holcombe Department of Electrical and Computer Engineering, Clemson University] (https://www.clemson.edu/cecas/departments/ece/), SC, USA, supervised by [Dr. Haiying (Helen) Shen] (https://www.cs.virginia.edu/~hs6ms/). 
+Jinwei Liu is an Assistant Professor with the Department of Computer and Information Sciences at Florida A&M University (FAMU). He received the Ph.D. degree in Computer Engineering from the [Holcombe Department of Electrical and Computer Engineering, Clemson University] (https://www.clemson.edu/cecas/departments/ece/), SC, USA, supervised by [Dr. Haiying (Helen) Shen] (https://www.cs.virginia.edu/~hs6ms/). 
 
 Short Bio
 ======
