@@ -13,7 +13,7 @@ Dr. Jinwei Liu is an Assistant Professor with the Department of Computer and Inf
 
 Opening
 ======
-I am looking for self-motivated students with research interests in any area of cloud computing and machine learning. If this opportunity interests you, reach out to me (jinwei.liu at famu.edu), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
+I am looking for self-motivated students with research interests in any area of cloud computing/storage and machine learning. If this opportunity interests you, reach out to me (jinwei.liu at famu.edu), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
 
 News
 ======
