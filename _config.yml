@@ -215,6 +215,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  award:
+    output: true
+    permalink: /:collection/:path/
   # portfolio:
     # output: false # true
     # permalink: /:collection/:path/
