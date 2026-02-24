@@ -20,6 +20,8 @@ I am looking for self-motivated students with research interests in any area of 
 
 News
 ======
+[02/2026] Congratulations to Kalab M. Kiros! He received the IBM Masters Fellowship award ($10,000) in 2026. Many thanks to IBM!
+
 [08/2024] Our project was funded by NSF HBCU-UP program. Many thanks to NSF!
 
 [08/2024] Our project was funded by NSF RCN-UBE program. Many thanks to NSF!
