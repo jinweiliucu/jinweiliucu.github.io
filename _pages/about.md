@@ -20,7 +20,7 @@ I am looking for self-motivated students with research interests in any area of 
 
 News
 ======
-[04/2026] Congratulations to Sunday J. Awine! He has been awarded an NSF Student Travel Grant. Many thanks to NSF!
+[04/2026] Congratulations to Sunday J. Awine! He has been awarded an NSF Student Travel Grant. Many thanks to NSF and IEEE ICC!
 
 [02/2026] Congratulations to Kalab M. Kiros! He received the IBM Masters Fellowship award ($10,000) in 2026. Many thanks to IBM!
 
