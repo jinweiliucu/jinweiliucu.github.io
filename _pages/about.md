@@ -20,6 +20,8 @@ I am looking for self-motivated students with research interests in any area of 
 
 News
 ======
+[04/2026] Congratulations to Sunday J. Awine! He has been awarded an NSF Student Travel Grant. Many thanks to NSF!
+
 [02/2026] Congratulations to Kalab M. Kiros! He received the IBM Masters Fellowship award ($10,000) in 2026. Many thanks to IBM!
 
 [08/2024] Our project was funded by NSF HBCU-UP program. Many thanks to NSF!
@@ -27,6 +29,8 @@ News
 [08/2024] Our project was funded by NSF RCN-UBE program. Many thanks to NSF!
 
 [02/2024] Our project was supported by FAMU Cyber Policy Institute funded through a $5 million grant from the Hewlett Foundation. Many thanks to FAMU Cyber Policy Institute and the Hewlett Foundation!
+
+[01/2024] Congratulations to Sunday J. Awine! He received the Google Scholarship in 2024. Many thanks to GOOGLE LLC!
 
 [09/2022] Our project was funded by Cyber Florida. Many thanks to Cyber Florida!
 
