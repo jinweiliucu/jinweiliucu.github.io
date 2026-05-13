@@ -32,6 +32,8 @@ News
 
 [01/2024] Congratulations to Sunday J. Awine! He received the Google Scholarship in 2024. Many thanks to GOOGLE LLC!
 
+[11/2023] Our project was supported by National Telecommunications and Information Association / Connecting Minority Communities Building Digital Pathways to Prosperity Grant 12-09-C13055 ($5.35M). Many thanks to NTIA!
+
 [09/2022] Our project was funded by Cyber Florida. Many thanks to Cyber Florida!
 
 [11/2021] Our project was funded by FAMU Faculty Research Awards Program (FRAP). Many thanks to FAMU!
