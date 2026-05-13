@@ -24,6 +24,8 @@ News
 
 [02/2026] Congratulations to Kalab M. Kiros! He received the IBM Masters Fellowship award ($10,000) in 2026. Many thanks to IBM!
 
+[04/2025] Our project was supported by National Telecommunications and Information Association / Connecting Minority Communities Building Digital Pathways to Prosperity Grant 12-09-C13055 ($5.35M). Many thanks to NTIA!
+
 [08/2024] Our project was funded by NSF HBCU-UP program. Many thanks to NSF!
 
 [08/2024] Our project was funded by NSF RCN-UBE program. Many thanks to NSF!
@@ -31,8 +33,6 @@ News
 [02/2024] Our project was supported by FAMU Cyber Policy Institute funded through a $5 million grant from the Hewlett Foundation. Many thanks to FAMU Cyber Policy Institute and the Hewlett Foundation!
 
 [01/2024] Congratulations to Sunday J. Awine! He received the Google Scholarship in 2024. Many thanks to GOOGLE LLC!
-
-[11/2023] Our project was supported by National Telecommunications and Information Association / Connecting Minority Communities Building Digital Pathways to Prosperity Grant 12-09-C13055 ($5.35M). Many thanks to NTIA!
 
 [09/2022] Our project was funded by Cyber Florida. Many thanks to Cyber Florida!
 
