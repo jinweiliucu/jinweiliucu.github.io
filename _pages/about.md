@@ -20,7 +20,7 @@ I am looking for self-motivated students with research interests in any area of 
 
 News
 ======
-[08/2026] Congratulations to Joshua! He has been awarded a Student Travel Grant. Many thanks to IEEE WF-PST!
+[08/2026] Congratulations to Joshua! He has been awarded a Student Travel Grant ($1,000). Many thanks to IEEE WF-PST!
 
 [04/2026] Congratulations to Sunday J. Awine! He has been awarded an NSF Student Travel Grant. Many thanks to NSF and IEEE ICC!
 
