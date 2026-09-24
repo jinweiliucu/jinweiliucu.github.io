@@ -22,6 +22,8 @@ News
 ======
 [08/2026] Congratulations to Joshua! He has been awarded a Student Travel Grant ($1,000). Many thanks to IEEE WF-PST!
 
+[06/2026] Our project was funded by Reynolds American Inc. Many thanks to Reynolds American Inc!
+
 [04/2026] Congratulations to Sunday J. Awine! He has been awarded an NSF Student Travel Grant. Many thanks to NSF and IEEE ICC!
 
 [02/2026] Congratulations to Kalab M. Kiros! He received the IBM Masters Fellowship award ($10,000) in 2026. Many thanks to IBM!
